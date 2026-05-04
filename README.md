@@ -29,8 +29,8 @@ Welcome! This repository tracks my journey of solving coding problems every sing
 ---
 
 ### 🔗 Profiles
-*   **LeetCode:** [Your Profile Link Here]
-*   **LinkedIn:** [Your Profile Link Here]
+*   **LeetCode:** [available soon]
+*   **LinkedIn:** [available soon]
 
 ---
 *Stay Consistent. Stay Coding.* 💻
